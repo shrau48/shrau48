@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreyas Ananthula
 - 🌱 I’m currently studying Computer Science / Advanced Mathematics at UNSW.
-- 📫 How to reach me, shreyas_ananthula (Instagram), shreyas.ananthula@gmail.com 
+- 📫 How to reach me, shreyas_ananthula (Instagram), shreyas.ananthula@gmail.com , https://www.linkedin.com/in/shreyas-ananthula-54a7261b6/
 
 
 <!---
